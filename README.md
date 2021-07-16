@@ -1,1 +1,1 @@
-# ColorGame.github.io
+# ColorGame
